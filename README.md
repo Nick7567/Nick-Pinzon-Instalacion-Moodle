@@ -26,7 +26,7 @@ Y entonces, ya estaremos en el Moodle
 
 ## Administracion del perfil del usuario
 Para cambiar la direccion del correo electronico y la contraseña tenemos que ir al perfil
-<img width="1852" height="1042" alt="image" src="https://github.com/user-attachments/assets/7342c6b4-3fc0-426f-81f3-b5db3714e563" />
+<img width="1852" height="1042" alt="image" src="https://github.com/user-attachments/assets/7342c6b4-3fc0-426f-81f3-b5db3714e563" />  
 
 Iremos a "editar perfil"
 <img width="1842" height="998" alt="image" src="https://github.com/user-attachments/assets/cadcd053-5bc9-4943-a6e6-d88630100dce" />
