@@ -36,3 +36,35 @@ Aqui podremos cambiar nuestra contraseña agregando otra
 
 Aqui podemos cambiar nuestra direccion del correo electronico
 <img width="1850" height="901" alt="image" src="https://github.com/user-attachments/assets/d07d8032-87af-4a34-aa5a-ec8c41dbd16d" />
+
+Para guardar la informacion bajaremos y le daremos a "guardar informacion personal"
+<img width="1803" height="755" alt="image" src="https://github.com/user-attachments/assets/1b327572-36e2-4320-979c-7aefebaccfb8" />
+
+Para cambiar o montar una foto de perfil necesitamos aun estando en editar perfil tenemos que bajar toda la pagina hasta abajo y montar una imagen 
+Puedes ir a tus archivos y arrastrar una imagen alli
+<img width="1851" height="1008" alt="image" src="https://github.com/user-attachments/assets/d0052e91-bf8c-428f-9af5-85dfc80df34a" />
+
+Le daremos a "actualizar informacion personal"
+<img width="1852" height="1049" alt="image" src="https://github.com/user-attachments/assets/75198d6c-8d14-4d05-bb01-6d9cbf1af22b" />
+
+
+
+## Configurar el sitio
+Para configurar el sitio tenemos que ir a "administracion del sitio"
+<img width="1720" height="651" alt="image" src="https://github.com/user-attachments/assets/16991994-7745-4a2a-ba70-522ecc1fc54c" />
+
+Bajamos y le daremos a ajustes de la pagina principal
+<img width="1845" height="1036" alt="image" src="https://github.com/user-attachments/assets/2c0483c0-b2d3-431a-8d07-20c2434b42ed" />
+
+Aqui podemos personalizar muchas cosas de nuestra pagina de Moodle
+<img width="1851" height="1041" alt="image" src="https://github.com/user-attachments/assets/642c218c-83ce-41ee-a85e-a178be729fcb" />
+
+Bajaremos y le daremos a guardar
+<img width="1845" height="962" alt="image" src="https://github.com/user-attachments/assets/cac0ea06-0410-4233-980d-d661f57012d0" />
+
+Para cambiar la franja horaria tenemos que ir a "administracion del sitio"
+Ajustes de ubicacion
+<img width="1845" height="986" alt="image" src="https://github.com/user-attachments/assets/c7973383-0501-4ce7-9308-1acf25ada332" />
+
+Aqui podemos editar varias cosas del idioma del moodle
+<img width="1844" height="959" alt="image" src="https://github.com/user-attachments/assets/b0733e20-6090-4e3e-9a6f-ea4c2c3a1658" />
