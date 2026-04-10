@@ -15,7 +15,8 @@ Aqui ponemos como servidor "localhost", base de datos "bbdd" y ya ponmeos un usu
 Tendremos que actualizar el apache mysql en el terminal y ya cuando todo aparezca en "ok" continuaremos
 <img width="592" height="378" alt="image" src="https://github.com/user-attachments/assets/8e5d9797-5e83-4090-8606-582737bbef40" />
 
-Continuamnos
+Continuamos
+
 <img width="565" height="330" alt="image" src="https://github.com/user-attachments/assets/8d47bb75-959c-4007-a8bf-4df7cea1aded" />
 
 Y entonces, ya estaremos en el Moodle
