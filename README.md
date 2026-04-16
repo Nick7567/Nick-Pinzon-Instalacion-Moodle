@@ -68,3 +68,19 @@ Ajustes de ubicacion
 
 Aqui podemos editar varias cosas del idioma del moodle
 <img width="1844" height="959" alt="image" src="https://github.com/user-attachments/assets/b0733e20-6090-4e3e-9a6f-ea4c2c3a1658" />
+
+Para cambiar el idioma del sitio tenemos que ingresar en administracion del sitio
+<img width="1847" height="1048" alt="image" src="https://github.com/user-attachments/assets/43d37c2f-2c82-4899-9614-df66a2b71ff8" />
+
+Bajar hasta idioma y aqui encontraremos tres opciones para cambiar el idioma
+<img width="1849" height="964" alt="image" src="https://github.com/user-attachments/assets/867129db-7a08-4e63-adb4-ef0db1fad059" />
+
+Para instalar un paquete de idioma tenemos que ir a paquetes de idioma
+<img width="1846" height="958" alt="image" src="https://github.com/user-attachments/assets/5152a51d-bf17-42ab-9b05-c830d2990218" />
+
+Buscamos y seleccionamos el idioma que queramos descargar y le daremos a "instalar paquete de idioma"
+<img width="1853" height="1046" alt="image" src="https://github.com/user-attachments/assets/858fcad5-4348-4c3f-baed-3a97cdbf5ccb" />
+
+y ya tendriamos nuestro idioma instalado
+<img width="1838" height="904" alt="image" src="https://github.com/user-attachments/assets/ec0f9b9a-3282-4209-81cf-3beb81a7cbd2" />
+
