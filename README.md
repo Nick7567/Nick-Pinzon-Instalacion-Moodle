@@ -84,3 +84,18 @@ Buscamos y seleccionamos el idioma que queramos descargar y le daremos a "instal
 y ya tendriamos nuestro idioma instalado
 <img width="1838" height="904" alt="image" src="https://github.com/user-attachments/assets/ec0f9b9a-3282-4209-81cf-3beb81a7cbd2" />
 
+Para establecer una politica de contraseñas robustas nos iremos a administracion del sitio
+<img width="1847" height="1048" alt="image" src="https://github.com/user-attachments/assets/43d37c2f-2c82-4899-9614-df66a2b71ff8" />
+
+Nos iremos a politicas de seguridad del sitio
+<img width="1847" height="1042" alt="image" src="https://github.com/user-attachments/assets/0e9985be-0e6d-4531-8c4c-520ed0bddc49" />
+
+Agregaremos una nueva contraseña con una longitud mínima de 8 caracteres, incluyendo mayusculas minusculas y numeros
+<img width="1843" height="1002" alt="image" src="https://github.com/user-attachments/assets/6e86e912-4bc6-4c7f-ad30-51652c29d593" />
+
+Bajamos y le daremos a guardar cambios
+<img width="1841" height="952" alt="image" src="https://github.com/user-attachments/assets/e3ed39a9-0654-4c42-b6c1-470e9b085898" />
+
+
+
+##Creación de cursos
