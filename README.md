@@ -99,3 +99,16 @@ Bajamos y le daremos a guardar cambios
 
 
 ## Creación de cursos
+Para crear cursos tienes que ir a cursos
+<img width="1850" height="1047" alt="image" src="https://github.com/user-attachments/assets/ae24dd40-2a7a-4cbf-805f-ce0582047cf6" />
+
+Y darle click a añadir un nuevo curso
+<img width="1842" height="879" alt="image" src="https://github.com/user-attachments/assets/9a1edd77-fe3e-4ad0-b7e6-edf9d98ac20f" />
+
+Rellenamos los datos que nos pidan 
+<img width="1750" height="936" alt="image" src="https://github.com/user-attachments/assets/5a1e1935-022c-4e84-b872-d6804a40af7a" />
+<img width="1826" height="893" alt="image" src="https://github.com/user-attachments/assets/60f02de4-f8d3-4524-8263-7159a84a23e9" />
+
+Bajaremos y le daremos a guardar cambios y mostrar 
+<img width="1783" height="1006" alt="image" src="https://github.com/user-attachments/assets/f9f8c430-d457-486e-ba02-40342403f214" />
+
