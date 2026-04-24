@@ -112,3 +112,27 @@ Rellenamos los datos que nos pidan
 Bajaremos y le daremos a guardar cambios y mostrar 
 <img width="1783" height="1006" alt="image" src="https://github.com/user-attachments/assets/f9f8c430-d457-486e-ba02-40342403f214" />
 
+Para agregar archivos tenemos que primero activar el modo edicion de la pagina
+<img width="1843" height="960" alt="image" src="https://github.com/user-attachments/assets/c6877f9d-ab51-4580-8c1f-102fa924c74e" />
+
+Luego nos dirigiremos a cursos 
+<img width="1848" height="997" alt="image" src="https://github.com/user-attachments/assets/cbafd516-88e5-459c-a689-c2fdbd44adf7" />
+
+Alli le daremos a la cruz y le daremos a "Actividad o recurso"
+<img width="1849" height="998" alt="image" src="https://github.com/user-attachments/assets/c1b0bf87-44d9-4271-becd-2453950976ce" />
+
+Elegimos lo que queramos poner y le daremoas a añadir
+<img width="1123" height="777" alt="image" src="https://github.com/user-attachments/assets/eb8348d1-1d5a-428b-ab7b-9232610b1d43" />
+
+Aqui tendremos la carpeta que hemos añadido
+<img width="1396" height="788" alt="image" src="https://github.com/user-attachments/assets/dd06f5be-418d-4107-82da-8227d5c4b75e" />
+
+
+
+## Crear y gestionar usuarios
+Para añadir un nuevo usuario tenemos que dirigirnos a administracion del sitio, usuarios y añadir un usuario
+<img width="1841" height="986" alt="image" src="https://github.com/user-attachments/assets/daef2f83-6e4f-46e5-8513-02dd4c074337" />
+
+Añadimos los datos que queramos agregar bajamos y le daremos a crear usuario
+<img width="1841" height="1002" alt="image" src="https://github.com/user-attachments/assets/30b62526-bba9-4c01-a7ad-c2fb361b7992" />
+
