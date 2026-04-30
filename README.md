@@ -136,3 +136,14 @@ Para añadir un nuevo usuario tenemos que dirigirnos a administracion del sitio,
 Añadimos los datos que queramos agregar bajamos y le daremos a crear usuario
 <img width="1841" height="1002" alt="image" src="https://github.com/user-attachments/assets/30b62526-bba9-4c01-a7ad-c2fb361b7992" />
 
+iremos a google sheets y descargamos en formato .csv
+<img width="742" height="314" alt="imagen" src="https://github.com/user-attachments/assets/98bb6bfb-2b66-4f2c-8208-f99933f8ff12" />
+
+iremos a Administració del lloc > Usuaris > Carrega usuaris y pondremos el archivo .csv, le daremos a subir archivo
+<img width="1442" height="268" alt="imagen" src="https://github.com/user-attachments/assets/39cd8fa6-ec9f-464e-b517-005bdf87343f" />
+<img width="1442" height="268" alt="imagen" src="https://github.com/user-attachments/assets/bca01eba-d1fd-458e-9fdd-bb436dd61087" />
+
+y aqui ya lo tendriamos subido 
+<img width="1786" height="846" alt="imagen" src="https://github.com/user-attachments/assets/b648b61a-c519-4f83-b56c-e5395bede63a" />
+
+## Matriculacion de usuarios a los cursos
