@@ -147,3 +147,15 @@ y aqui ya lo tendriamos subido
 <img width="1786" height="846" alt="imagen" src="https://github.com/user-attachments/assets/b648b61a-c519-4f83-b56c-e5395bede63a" />
 
 ## Matriculacion de usuarios a los cursos
+Para matriculas a bob como profesor primero hay que ir a nuestro curso que queramos inscribirlo e irnos a usuarios
+<img width="1786" height="846" alt="imagen" src="https://github.com/user-attachments/assets/f3ba2438-bd70-4814-acd9-0beb7147ce67" />
+
+y le daremos a matriculas usuarios
+<img width="1786" height="846" alt="imagen" src="https://github.com/user-attachments/assets/c5c80829-9ac2-49e7-8001-a446a2fbe4f9" />
+
+eligiremos bob y seleccionaremos el rol de profesor
+<img width="1786" height="846" alt="imagen" src="https://github.com/user-attachments/assets/069b4f6f-f922-4cc2-986b-74734d45ca52" />
+
+seleccionaremos los otros usuarios y los inscribiremos como estudiantes y le daremos a matricular usuarios
+<img width="1786" height="846" alt="imagen" src="https://github.com/user-attachments/assets/ca06fa71-3dc3-4365-80ec-9e2186eaedcb" />
+
